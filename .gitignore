@@ -1,0 +1,8 @@
+#ignore le fichier
+config.yaml
+
+#ignore le repertoire "logs" et son contenu
+/logs/*
+#sauf le fichier .gitkeep
+# > Attention, cette ligne doit se trouver après la précédente (/logs)
+!/logs/.gitkeep
