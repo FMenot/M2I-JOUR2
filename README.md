@@ -1,7 +1,8 @@
 # M2I-JOUR2
 Repo de formation jour 2
 
-Prise en compte des commentaire²:qw
+
+Prise en compte des commentaire²:qw + modif depuis master pour faire un conflit
 
 Lo rem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquam dictum convallis. Pellentesque mollis metus ut nunc tempus, quis mattis risus sagittis. Donec vitae hendrerit turpis. Fusce sed libero nec nisl ornare porta. Nunc auctor feugiat dolor in mattis. Suspendisse non lorem nec leo pellentesque luctus nec at massa. Curabitur facilisis aliquet orci quis consectetur. Etiam egestas orci eu orci sollicitudin, in ullamcorper quam tempor. Nunc congue nibh ac rhoncus ultrices. Sed ornare interdum consequat.
 
